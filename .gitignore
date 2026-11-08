@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# OS / Office temporary files
+.DS_Store
+__MACOSX/
+Thumbs.db
+~$*
+Rapport_DV2607_Bilal_Subhi.docx
