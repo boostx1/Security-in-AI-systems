@@ -6,6 +6,8 @@
 [![TensorFlow / Keras](https://img.shields.io/badge/TensorFlow-ResNet50-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![IBM ART](https://img.shields.io/badge/Defense-Adversarial%20Robustness%20Toolbox-052FAD)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 
+![Project Overview Banner](images/project_overview_banner.jpg)
+
 An end-to-end empirical investigation into **Adversarial Machine Learning** and **Federated Learning Security**, developed as part of *DV2607: Security in AI Systems* at **Blekinge Institute of Technology (BTH)**.
 
 This project explores how modern AI systems fail under adversarial manipulation—both at **inference time** (centralized white-box evasion attacks) and at **training time** (distributed data poisoning in Federated Learning)—and implements practical, mathematically grounded defenses to harden them.
@@ -31,6 +33,7 @@ Security-in-AI-systems/
 │   ├── Part1_Adversarial_Evasion_Attack_PGD.ipynb                # Part 1: ResNet-50 PGD attack & ART preprocessing defense
 │   └── Part2_Federated_Learning_Poisoning_and_Defense.ipynb      # Part 2: 11 Flower FL simulations (FedAvg, FedMedian, FedAvgM, FedTrimmedAvg)
 ├── images/
+│   ├── project_overview_banner.jpg                               # Visual overview banner (Computer Vision + Federated Learning)
 │   ├── part1_pgd_attack_visualization.png                        # Visual comparison: Clean vs. PGD Adversarial vs. Noise
 │   ├── part1_defense_evaluation.png                              # Confidence comparison: Undefended vs. Defended ResNet-50
 │   ├── part2_1_attack_impact.png                                 # Part 2.1: FedAvg under 0, 1 (20%), and 2 (40%) attackers
