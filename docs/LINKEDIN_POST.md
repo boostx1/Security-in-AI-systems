@@ -64,3 +64,4 @@ Upload these 3 images from the `images/` folder as a multi-image carousel on Lin
 1. `images/part1_pgd_attack_visualization.png` *(Shows the Koala -> Tractor PGD attack and amplified noise)*
 2. `images/part2_4_trimmed_mean_defense.png` *(Shows the head-to-head comparison of FedTrimmedAvg vs. FedMedian vs. FedAvg)*
 3. `images/part2_2_fedmedian_defense.png` *(Shows the 35-round Accuracy & Cohen's Kappa recovery under FedMedian)*
+
