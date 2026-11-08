@@ -39,12 +39,8 @@ Security-in-AI-systems/
 │   ├── part2_4_trimmed_mean_defense.png                          # Part 2.4: FedTrimmedAvg vs. FedMedian breakdown analysis
 │   ├── koala.jpeg                                                # Source image (ImageNet class 105: Koala)
 │   └── tractor.jpeg                                              # Target class reference (ImageNet class 866: Tractor)
-├── report/
-│   ├── Rapport_DV2607_Bilal_Subhi.pdf                            # Full technical report (PDF)
-│   └── Rapport_DV2607_Bilal_Subhi.docx                           # Full technical report (Word)
-└── docs/
-    ├── LINKEDIN_POST.md                                          # Project summary formatted for LinkedIn
-    └── assignment_instructions.md                                # Course specification
+└── report/
+    └── Rapport_DV2607_Bilal_Subhi.pdf                            # Full technical report (PDF)
 ```
 
 ---
